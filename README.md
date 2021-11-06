@@ -12,7 +12,7 @@ This repository includes TWO Jupyter Notebooks:
 
  2. Data_Analysis_Visualizations.ipynb
  
-  T his notebook loads the cleaned csv files and creates a series of data visualizations. 
+  This notebook loads the cleaned csv files and creates a series of data visualizations. 
 
 Secondly, this repository includes a
     -"Data" folder that includes the raw and processed data. Data are zipped due to their large sizes.
